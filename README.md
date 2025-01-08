@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and web development
 - 🌱 I’m currently learning computer science in SIT
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me ...
+- 📫 How to reach me --> adishsawant@gmail.com
 
 <!---
 aadiish/aadiish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
